@@ -1,9 +1,0 @@
-熟悉网络通讯，了解TCP和http;
-熟悉Linux/Unix环境，熟练配置服务器环境，能熟练运用shell更佳
-有良好的面向对象设计思想，对多线程有深刻理解，熟悉设计模式，拥有良好的编程习惯
-熟悉缓存技术，在生产环境中使用过至少一种noSql产品 MongoDB、Redis等
-熟悉linux开发环境，掌握一种脚本语言的使用
-有分布式架构设计和开发经验，熟悉Lucene、Hadoop等开源产品者优先；
-熟悉shell编程，以及python、ruby、groovy（至少一种）等脚本编程
-熟悉Spring/Hibernate等常用开源框架
-对互联网产品有一定程度的理解
