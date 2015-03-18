@@ -7,3 +7,4 @@
 熟悉shell编程，以及python、ruby、groovy（至少一种）等脚本编程
 熟悉Spring/Hibernate等常用开源框架
 对互联网产品有一定程度的理解
+scala
